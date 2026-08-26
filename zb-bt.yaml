@@ -48,7 +48,7 @@ wifi:
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
     ssid: "SLZB-06 Hotspot"
-    password: "slzb06"
+    password: "slzb-06-hotspot"
 
 ## Enabling captive portal
 captive_portal:
